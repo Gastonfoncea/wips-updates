@@ -5,5 +5,16 @@
     <link>https://gastonfoncea.github.io/wips-updates/appcast.xml</link>
     <description>Actualizaciones de Wips</description>
     <language>es</language>
-  </channel>
+      <item>
+  <title>Version 1.0</title>
+  <pubDate>Tue, 24 Mar 2026 03:47:58 +0000</pubDate>
+  <sparkle:version>1</sparkle:version>
+  <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+  <enclosure
+    url="https://github.com/Gastonfoncea/wips/releases/download/v1.1.0/Wips.zip"
+    sparkle:edSignature="b68xOBAI/ywE0JuvOWHWaT6t70ZGwg5xNOk9s4ky0UAD4Ksofq/TzR2ysNqKbqanGBS2tp+7Bd1z6s2Jz0ipDA=="
+    length="3043057"
+    type="application/octet-stream"/>
+</item>
+</channel>
 </rss>
