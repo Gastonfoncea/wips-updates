@@ -225,5 +225,16 @@
     length="4969919"
     type="application/octet-stream"/>
 </item>
+    <item>
+  <title>Version 1.5.0</title>
+  <pubDate>Tue, 07 Apr 2026 21:34:38 +0000</pubDate>
+  <sparkle:version>20</sparkle:version>
+  <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+  <enclosure
+    url="https://gastonfoncea.github.io/wips-updates/downloads/Wips-v1.5.0.zip"
+    sparkle:edSignature="noKv4DZzRmqgotjUcE73yW2xjR4RoZXH8nzusM81gqsbdfY+s0U6XW1YHtfyx9QI0+/0VqRhnH/IdYHWSqPwAA=="
+    length="4969646"
+    type="application/octet-stream"/>
+</item>
 </channel>
 </rss>
